@@ -1,0 +1,12 @@
+CreateAsyncThunk
+
+This is also create an action when dealing with async calls
+You will create your action thunk separately and used it inside your createSlice
+
+It will generate 3 action type
+1. Pending
+2. fulfilled
+3. rejected
+
+get 100 data
+https://jsonplaceholder.typicode.com/posts
